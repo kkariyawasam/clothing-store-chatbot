@@ -53,6 +53,9 @@ This project is a **Clothing Store Assistant Chatbot** built using **Gradio** an
 
 ## UI Preview
 
+<img width="920" alt="image" src="https://github.com/user-attachments/assets/b69525bf-ef6d-4560-ad26-bf6ace4fc831" />
+
+
 ## Contributing 🤝
 
 Feel free to fork the repository and submit pull requests!
